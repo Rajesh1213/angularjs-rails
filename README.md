@@ -19,5 +19,6 @@ If you desire to require (optional) Angular files, you may include them as well 
 
 ## Versioning
 
+
 Every attempt is made to mirror the currently shipping Angular.js version number wherever possible.
 The major, minor, and patch version numbers will always represent the Angular.js version.
